@@ -1,4 +1,6 @@
 ## Hi there 👋
+🌱 I’m currently learning devops in my homelab server
+📫 You can reach me using cjacandido@outlook.com / telegram.com/cjacandido
 
 <!--
 **cjacandido/cjacandido** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
